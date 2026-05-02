@@ -89,7 +89,8 @@ Performed business-driven queries to extract insights:
 ---
 
 ## 📁 Project Structure
-customer_behaviour_analysis/
+
+```
 customer_behaviour_analysis/
 │
 ├── README.md
@@ -105,7 +106,7 @@ customer_behaviour_analysis/
     ├── kpi.png
     ├── insights.png
     └── filters.png
-
+```
 
 ---
 
