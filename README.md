@@ -90,6 +90,7 @@ Performed business-driven queries to extract insights:
 
 ## 📁 Project Structure
 customer_behaviour_analysis/
+customer_behaviour_analysis/
 │
 ├── README.md
 ├── customer_shopping_behavior.csv
@@ -98,11 +99,12 @@ customer_behaviour_analysis/
 ├── Customer_Shopping_Behaviour_Analysis.ipynb
 ├── Business Problem Document.pdf
 ├── presentation.pptx
-├── screenshots/
-│ └── dashboard.png
-│ └── kpi.png
-│ └── insights.png
-│ └── filters.png
+│
+└── screenshots/
+    ├── dashboard.png
+    ├── kpi.png
+    ├── insights.png
+    └── filters.png
 
 
 ---
